@@ -9,7 +9,7 @@ My interest in web development started when I was doing assignments for my colle
 -   🌍 I'm based in **Malaysia**.
 -   🖥️ See my portfolio at **[my website](http://eXodes.net)**.
 -   🤝 I'm open to collaborating on **UI libraries**.
--   ⚡ Fun fact **I like shooting with film**
+-   ⚡ Fun fact: **I like shooting with film**
 
 ### Skills
 
