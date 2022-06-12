@@ -1,4 +1,4 @@
-# Hi 👋 My name is Exo Des
+# Hi 👋 I'm Exo
 
 ### UI & DevOps Engineer
 
