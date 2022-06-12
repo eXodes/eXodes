@@ -4,10 +4,10 @@
 
 My interest in web development started when I was doing assignments for my collegemates. I mainly focus on the front-end and DevOps of web development.
 
--   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
--   💬 Ask me about **Svelte**, **React**, and **Typescript**.
 -   🌍 I'm based in **Malaysia**.
 -   🖥️ See my portfolio at **[my website](http://eXodes.net)**.
+-   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
+-   💬 Ask me about **Svelte**, **React**, and **Typescript**.
 -   🤝 I'm open to collaborating on **UI libraries**.
 -   ⚡ Fun fact: **I like shooting with film**
 
