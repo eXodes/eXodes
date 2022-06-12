@@ -277,9 +277,9 @@ My interest in web development started when I was doing assignments for my colle
 ### Socials
 
 <p align="left">
-    <a href="https://www.behance.com/exodes" target="_blank" rel="noreferrer"></a>
+    <a href="https://www.github.com/eXodes" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
             width="36"
             height="36"
         />
@@ -295,16 +295,16 @@ My interest in web development started when I was doing assignments for my colle
             height="36"
         />
     </a>
-    <a href="https://www.github.com/eXodes" target="_blank" rel="noreferrer">
+    <a href="https://www.polywork.com/exodes" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg"
             width="36"
             height="36"
         />
     </a>
-    <a href="https://www.polywork.com/exodes" target="_blank" rel="noreferrer">
+    <a href="https://www.behance.com/exodes" target="_blank" rel="noreferrer"></a>
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg"
             width="36"
             height="36"
         />
