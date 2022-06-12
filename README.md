@@ -2,8 +2,6 @@
 
 ### UI & DevOps Engineer
 
----
-
 My interest in web development started when I was doing assignments for my collegemates. I mainly focus on the front-end and DevOps of web development.
 
 -   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
