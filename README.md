@@ -5,7 +5,7 @@
 My interest in web development started when I was doing assignments for my collegemates. I mainly focus on the front-end and DevOps of web development.
 
 -   🌍 I'm based in **Malaysia**.
--   🖥️ See my portfolio at **[my website](http://eXodes.net)**.
+-   🖥️ See my portfolio at **[GitHub](https://github.com/eXodes?tab=repositories)**.
 -   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
 -   💬 Ask me about **Svelte**, **React**, and **Typescript**.
 -   🤝 I'm open to collaborating on **UI libraries**.
