@@ -8,7 +8,7 @@ My interest in web development started when I was doing assignments for my colle
 -   🖥️ See my portfolio at **[GitHub](https://github.com/eXodes?tab=repositories)**.
 -   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
 -   💬 Ask me about **Svelte**, **React**, and **Typescript**.
--   🤝 I'm open to collaborating on **UI libraries**.
+-   🤝 I'm open to collaborating on **UI libraries** and **front-end tools**.
 -   ⚡ Fun fact: **I like shooting with film**
 
 ### Skills
