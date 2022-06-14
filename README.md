@@ -5,10 +5,10 @@
 My interest in web development started when I was doing assignments for my collegemates. I mainly focus on the front-end and DevOps of web development.
 
 -   🌍 I'm based in **Malaysia**.
--   🖥️ See my portfolio at **[GitHub](https://github.com/eXodes?tab=repositories)**.
 -   🌱 I’m currently learning **SvelteKit**, **Nest** and **Kubernetes**.
--   💬 Ask me about **Svelte**, **React**, and **Typescript**.
 -   🤝 I'm open to collaborating on **UI libraries** and **front-end tools**.
+-   💬 Ask me about **Svelte**, **React**, and **Typescript**.
+-   🖥️ See my portfolio at **[GitHub](https://github.com/eXodes?tab=repositories)**.
 -   ⚡ Fun fact: **I like shooting with film**
 
 ### Skills
@@ -284,6 +284,13 @@ My interest in web development started when I was doing assignments for my colle
             height="36"
         />
     </a>
+    <a href="https://www.polywork.com/exodes" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg"
+            width="36"
+            height="36"
+        />
+    </a>
     <a
         href="https://discord.com/users/eXodes#1225"
         target="_blank"
@@ -291,13 +298,6 @@ My interest in web development started when I was doing assignments for my colle
     >
         <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-            width="36"
-            height="36"
-        />
-    </a>
-    <a href="https://www.polywork.com/exodes" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg"
             width="36"
             height="36"
         />
