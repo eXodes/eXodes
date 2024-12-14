@@ -9,7 +9,7 @@ My interest in web development started when I was doing assignments for my colle
 -   🤝 I'm open to collaborating on **UI libraries** and **front-end tools**.
 -   💬 Ask me about **Svelte**, **React**, and **Typescript**.
 -   🖥️ See my portfolio at **[GitHub](https://github.com/eXodes?tab=repositories)**.
--   ⚡ Fun fact: **I like shooting with film**
+-   ⚡ Fun fact: **I like shooting landscapes with film**
 
 ### Skills
 
