@@ -22,7 +22,7 @@ My interest in web development started when I was doing assignments for my colle
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
             width="36"
             height="36"
             alt="HTML5"
@@ -30,7 +30,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
             width="36"
             height="36"
             alt="CSS3"
@@ -38,7 +38,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
             width="36"
             height="36"
             alt="TailwindCSS"
@@ -46,7 +46,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
             width="36"
             height="36"
             alt="Sass"
@@ -58,23 +58,23 @@ My interest in web development started when I was doing assignments for my colle
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             width="36"
             height="36"
-            alt="JavaScript"
+            alt="Javascript"
         />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             width="36"
             height="36"
-            alt="TypeScript"
+            alt="Typescript"
         />
     </a>
     <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
             width="36"
             height="36"
             alt="Svelte"
@@ -82,7 +82,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
             width="36"
             height="36"
             alt="React"
@@ -90,15 +90,15 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
             width="36"
             height="36"
-            alt="NextJs"
+            alt="Next.js"
         />
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
             width="36"
             height="36"
             alt="Redux"
@@ -106,7 +106,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
             width="36"
             height="36"
             alt="Material UI"
@@ -114,7 +114,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
             width="36"
             height="36"
             alt="Vue"
@@ -125,25 +125,25 @@ My interest in web development started when I was doing assignments for my colle
 <b>Back-end</b>
 
 <p align="left">
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-            width="36"
-            height="36"
-            alt="NodeJS"
-        />
-    </a>
     <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
             width="36"
             height="36"
             alt="NestJS"
         />
     </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+            width="36"
+            height="36"
+            alt="NodeJS"
+        />
+    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
             width="36"
             height="36"
             alt="Firebase"
@@ -151,18 +151,26 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
             width="36"
             height="36"
             alt="Laravel"
         />
     </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-            alt="graphql"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
             width="36"
             height="36"
+            alt="Express"
+        />
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
+            width="36"
+            height="36"
+            alt="GraphQL"
         />
     </a>
 </p>
@@ -170,36 +178,44 @@ My interest in web development started when I was doing assignments for my colle
 <b>DevOps</b>
 
 <p align="left">
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"
+            width="36"
+            height="36"
+            alt="GitHub Actions"
+        />
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+            width="36"
+            height="36"
+            alt="Google Cloud"
+        />
+    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws"
             width="36"
             height="36"
+            alt="Amazon Web Services"
         />
     </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-            alt="kubernetes"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
             width="36"
             height="36"
+            alt="Kubernetes"
         />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
             width="36"
             height="36"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="36"
-            height="36"
+            alt="Docker"
         />
     </a>
     <a
@@ -208,26 +224,26 @@ My interest in web development started when I was doing assignments for my colle
         rel="noreferrer"
     >
         <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-            alt="bash"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
             width="36"
             height="36"
+            alt="Bash"
         />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
             width="36"
             height="36"
+            alt="Linux"
         />
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-            alt="nginx"
             width="36"
             height="36"
+            alt="Nginx"
         />
     </a>
 </p>
@@ -237,18 +253,26 @@ My interest in web development started when I was doing assignments for my colle
 <p align="left">
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-            alt="jest"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
             width="36"
             height="36"
+            alt="Jest"
+        />
+    </a>
+    <a href="https://playwright.dev" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg"
+            width="36"
+            height="36"
+            alt="Playwright"
         />
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-            alt="cypress"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg"
             width="36"
             height="36"
+            alt="Cypress"
         />
     </a>
 </p>
@@ -256,9 +280,17 @@ My interest in web development started when I was doing assignments for my colle
 <b>Tools</b>
 
 <p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+            width="36"
+            height="36"
+            alt="Git"
+        />
+    </a>
+    <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
             width="36"
             height="36"
             alt="Figma"
@@ -266,10 +298,18 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
             width="36"
             height="36"
+            alt="Postman"
+        />
+    </a>
+    <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+            width="36"
+            height="36"
+            alt="NPM"
         />
     </a>
 </p>
@@ -279,7 +319,7 @@ My interest in web development started when I was doing assignments for my colle
 <p align="left">
     <a href="https://www.github.com/eXodes" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
             width="36"
             height="36"
         />
@@ -304,7 +344,7 @@ My interest in web development started when I was doing assignments for my colle
     </a>
     <a href="https://www.behance.com/exodes" target="_blank" rel="noreferrer"></a>
         <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg"
             width="36"
             height="36"
         />
